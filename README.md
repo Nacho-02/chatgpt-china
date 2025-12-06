@@ -5,8 +5,8 @@
 本文面向国内用户，汇总常见 **ChatGPT 中文版镜像站**，并用通俗方式讲清楚 GPT-5 / GPT-4o / o1 等模型的区别与选择建议，最后补充国内大模型是否能替代的现状。
 1. 推荐镜像站列表
 ① ChatGPT 中文版 GPT-Mirrors 镜像系统
-
 地址：http://cdagpt.shuangrenchengxing.com/chat.php
+
 支持：GPT-5、GPT-5.1、4.1
 其他模型：Claude 4.5 Sonnet、Gemini 2.5 Pro、Grok 4
 特色功能：支持 4o 绘画、nano banana 等多模态能力
