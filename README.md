@@ -7,7 +7,7 @@
 ① ChatGPT 中文版 GPT-Mirrors 镜像系统
 地址：http://cdagpt.shuangrenchengxing.com/chat.php
 
-支持：GPT-5、GPT-5.1、4.1
+支持：GPT-5、GPT-5.2、4.1
 其他模型：Claude 4.5 Sonnet、Gemini 2.5 Pro、Grok 4
 特色功能：支持 4o 绘画、nano banana 等多模态能力
 ---
